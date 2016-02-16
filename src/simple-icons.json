@@ -1130,6 +1130,10 @@
             "hex": "005A5F",
             "source": "https://worldvectorlogo.com/logo/xing-icon"
         },
+            "title": "XMPP",
+            "hex": "002B5C",
+            "source": "https://en.wikipedia.org/wiki/XMPP"
+        },        
         {
             "title": "Yahoo!",
             "hex": "440099",
