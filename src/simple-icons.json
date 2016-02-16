@@ -46,6 +46,16 @@
             "source": "https://worldvectorlogo.com/logo/apple"
         },
         {
+            "title": "Arduino",
+            "hex": "00979D",
+            "source": "https://www.arduino.cc"
+        },       
+        {
+            "title": "Arduino Genuino",
+            "hex": "00979D",
+            "source": "https://www.arduino.cc"
+        },
+        {
             "title": "Automatic",
             "hex": "7D8084",
             "source": "https://www.automatic.com/press"
